@@ -1,7 +1,7 @@
 
  #wrapper{
     background-color:black;
-    height:763px;
+    height:650px;
     width:1208px;
     /* text-align: center; */
   
@@ -19,7 +19,20 @@
 }
 
 .cont{
-    width:400px;
-    height:100%;
+    width:260px;
+    height:230px;
     display: inline-block;
+}
+ .ninja{
+     padding-left:104px;
+ }
+
+ .ninja1{
+    padding-left:104px;
+ }
+
+
+img{
+    height:200px;
+    width: 200px;
 }
