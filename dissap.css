@@ -1,0 +1,25 @@
+
+ #wrapper{
+    background-color:black;
+    height:763px;
+    width:1208px;
+    /* text-align: center; */
+  
+}
+
+.btn{
+    border-radius: 12px;
+    background-color: darkred;
+    font-size: 20px;
+    position: relative;
+    left: 563px;
+    top: 68px;
+    width: 100px;
+    height: 52px;
+}
+
+.cont{
+    width:400px;
+    height:100%;
+    display: inline-block;
+}
